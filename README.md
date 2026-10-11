@@ -1,2 +1,21 @@
 # sql-refresher
 Storytelling with Data
+
+1. [First DB](./01-First%20DB/README.md)
+2. [Time to Select](./02-Time%20to%20Select/README.md)
+3. [Data Types](./03-Data%20Types/README.md)
+4. [Import and Export](./04-Import%20and%20Export/README.md)
+5. [Math and Stats](./05-Math%20and%20Stats/README.md)
+6. [Joins](./06-Joins/README.md)
+7. [Table Design](./07-Table%20Design/README.md)
+8. [Grouping](./08-Grouping/README.md)
+9. [Inspect and Modify](./09-Inspect%20and%20Modify/README.md)
+10. [Stats Functions](./10-Stats%20Functions/README.md)
+11. [Dates and Time](./11-Dates%20and%20Time/README.md)
+12. [Advanced Query](./12-Advanced%20Query/README.md)
+13. [Mining Text](./13-Mining%20Text/README.md)
+14. [Analyzing Spatial Data](./14-Analyzing%20Spatial%20data/README.md)
+15. [Views, Functions, Triggers](./15-View,%20Functions,%20Triggers/README.md)
+16. [PostgreSQL from cmd](./16-PostgreSQL%20from%20cmd/README.md)
+17. [Maintain your DB](./17-Maintain%20your%20DB/README.md)
+18. [Story and Data](./18-Story%20and%20data/README.md) 
